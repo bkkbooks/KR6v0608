@@ -1,0 +1,830 @@
+canonical_identifier: bkk:krp/KR6v0608/v1
+canonical_location: https://kanripo.org/bkk/KR6v0608/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 印度之佛教
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y33/Y33n0031.xml
+    old_id: Y33n0031
+  edition:
+    short: bkk
+editions:
+- short: 印順
+  label: 印順
+  source_xml_id: wit.orig
+- short: 'Y'
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0608_000.yaml, hash: 'sha256:66746450376ead60adc782f892d66db522b537e3537b951a817d7466e991a55a'}
+  - {seq: 1, filename: KR6v0608_001.yaml, hash: 'sha256:8d2e6fce71281520dd7c58c8eab9ae683c003c7b088670f4a915e69aeebf029f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0608_000.markers.yaml, hash: 'sha256:3dac052f3377907416bd708e461639a4a9f25b9d3a5c3b92abe83da38d310659'}
+  - {seq: 1, role: markers, filename: assets/KR6v0608_001.markers.yaml, hash: 'sha256:efa5bf19fa6e4b8ab8fe1bd6f67f3cd9c581dd0a7dfd0de664788ae526ee2154'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0608_Y_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 自序——編述之緣起、方針與目的
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 110744
+  label: 印度之佛教
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第一章　印度佛教流變概觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-2
+    span:
+    - body
+    - 3270
+    - 3270
+  label: 第二章　釋尊略傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-3
+    span:
+    - body
+    - 3277
+    - 3277
+  label: 第一節　出家前之釋尊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-4
+    span:
+    - body
+    - 4318
+    - 4318
+  label: 第二節　出家
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-5
+    span:
+    - body
+    - 5868
+    - 5868
+  label: 第三節　成正覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-6
+    span:
+    - body
+    - 7263
+    - 7263
+  label: 第四節　轉法輪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-7
+    span:
+    - body
+    - 10809
+    - 10809
+  label: 第五節　入涅槃
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-8
+    span:
+    - body
+    - 11412
+    - 11412
+  label: 第三章　佛理要略
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-9
+    span:
+    - body
+    - 11419
+    - 11419
+  label: 第一節　世間
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-10
+    span:
+    - body
+    - 12616
+    - 12616
+  label: 第二節　世間之淨化
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-11
+    span:
+    - body
+    - 14324
+    - 14324
+  label: 第三節　世間之解脫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-12
+    span:
+    - body
+    - 16519
+    - 16519
+  label: 第四章　聖典之結集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-13
+    span:
+    - body
+    - 16527
+    - 16527
+  label: 第一節　王舍城之第一結集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-14
+    span:
+    - body
+    - 18382
+    - 18382
+  label: 第二節　毘舍離之第二結集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-15
+    span:
+    - body
+    - 19928
+    - 19928
+  label: 第三節　傳說中之第三結集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-16
+    span:
+    - body
+    - 20178
+    - 20178
+  label: 第四節　法毘奈耶之初型
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-17
+    span:
+    - body
+    - 24931
+    - 24931
+  label: 第五章　阿恕迦王與佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-18
+    span:
+    - body
+    - 24941
+    - 24941
+  label: 第一節　法阿育與黑阿育
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-19
+    span:
+    - body
+    - 26256
+    - 26256
+  label: 第二節　阿恕迦王之政教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-20
+    span:
+    - body
+    - 27672
+    - 27672
+  label: 第三節　阿恕迦王時代之佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-21
+    span:
+    - body
+    - 30061
+    - 30061
+  label: 第六章　學派之分裂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-22
+    span:
+    - body
+    - 30069
+    - 30069
+  label: 第一節　二部、三系、四派
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-23
+    span:
+    - body
+    - 32687
+    - 32687
+  label: 第二節　大眾系末派之分裂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-24
+    span:
+    - body
+    - 34816
+    - 34816
+  label: 第三節　上座系末派之分裂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-25
+    span:
+    - body
+    - 37815
+    - 37815
+  label: 第四節　五部、十八部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-26
+    span:
+    - body
+    - 38552
+    - 38552
+  label: 第七章　阿毘達磨之發達
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-27
+    span:
+    - body
+    - 38562
+    - 38562
+  label: 第一節　優波提舍、摩呾理迦與阿毘達磨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-28
+    span:
+    - body
+    - 39571
+    - 39571
+  label: 第二節　阿毘達磨之流派及發展
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-29
+    span:
+    - body
+    - 42268
+    - 42268
+  label: 第三節　阿毘達磨之組織
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-30
+    span:
+    - body
+    - 44315
+    - 44315
+  label: 第八章　學派思想泛論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-31
+    span:
+    - body
+    - 44324
+    - 44324
+  label: 第一節　思想分化之原因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-32
+    span:
+    - body
+    - 45237
+    - 45237
+  label: 第二節　聖德觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-33
+    span:
+    - body
+    - 46699
+    - 46699
+  label: 第三節　無我無常之世間
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-34
+    span:
+    - body
+    - 49918
+    - 49918
+  label: 第四節　無我涅槃之出世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-35
+    span:
+    - body
+    - 50412
+    - 50412
+  label: 第九章　中印之法難
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-36
+    span:
+    - body
+    - 50420
+    - 50420
+  label: 第一節　教難之概況及其由來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-37
+    span:
+    - body
+    - 52111
+    - 52111
+  label: 第二節　教難引起之後果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-38
+    span:
+    - body
+    - 53221
+    - 53221
+  label: 第十章　南北朝時代之佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-39
+    span:
+    - body
+    - 53232
+    - 53232
+  label: 第一節　王朝之變遷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-40
+    span:
+    - body
+    - 53955
+    - 53955
+  label: 第二節　西北印佛教之隆盛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-41
+    span:
+    - body
+    - 55538
+    - 55538
+  label: 第三節　佛化雕刻之發達
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-42
+    span:
+    - body
+    - 56435
+    - 56435
+  label: 第十一章　大乘佛教導源
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-43
+    span:
+    - body
+    - 56445
+    - 56445
+  label: 第一節　思想之根柢、啟發與完成
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-44
+    span:
+    - body
+    - 57361
+    - 57361
+  label: 第二節　大乘藏結集流布之謎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-45
+    span:
+    - body
+    - 59529
+    - 59529
+  label: 第三節　菩薩之偉大
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-46
+    span:
+    - body
+    - 60749
+    - 60749
+  label: 第四節　大乘初興
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-47
+    span:
+    - body
+    - 62744
+    - 62744
+  label: 第十二章　性空大乘之傳宏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-48
+    span:
+    - body
+    - 62755
+    - 62755
+  label: 第一節　龍樹師資事略
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-49
+    span:
+    - body
+    - 64381
+    - 64381
+  label: 第二節　性空論之前瞻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-50
+    span:
+    - body
+    - 67068
+    - 67068
+  label: 第三節　性空唯名論述要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-51
+    span:
+    - body
+    - 69569
+    - 69569
+  label: 第十三章　笈多王朝之佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-52
+    span:
+    - body
+    - 69580
+    - 69580
+  label: 第一節　王朝之盛衰與佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-53
+    span:
+    - body
+    - 71185
+    - 71185
+  label: 第二節　小乘學之餘輝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-54
+    span:
+    - body
+    - 73770
+    - 73770
+  label: 第三節　因明之大成
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-55
+    span:
+    - body
+    - 75211
+    - 75211
+  label: 第十四章　虛妄唯識論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-56
+    span:
+    - body
+    - 75220
+    - 75220
+  label: 第一節　無著師資事略
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-57
+    span:
+    - body
+    - 76681
+    - 76681
+  label: 第二節　瑜伽師與禪者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-58
+    span:
+    - body
+    - 78005
+    - 78005
+  label: 第三節　唯心論成立之經過
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-59
+    span:
+    - body
+    - 79575
+    - 79575
+  label: 第四節　虛妄唯識論述要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-60
+    span:
+    - body
+    - 83750
+    - 83750
+  label: 第五節　真常、一乘與唯心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-61
+    span:
+    - body
+    - 85000
+    - 85000
+  label: 第十五章　真常唯心論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-62
+    span:
+    - body
+    - 85009
+    - 85009
+  label: 第一節　思想之淵源及成立
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-63
+    span:
+    - body
+    - 86925
+    - 86925
+  label: 第二節　真常唯心論述要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-64
+    span:
+    - body
+    - 89687
+    - 89687
+  label: 第三節　辨偽與釋疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-65
+    span:
+    - body
+    - 90543
+    - 90543
+  label: 第十六章　教難之嚴重
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-66
+    span:
+    - body
+    - 90552
+    - 90552
+  label: 第一節　教難之嚴重
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-67
+    span:
+    - body
+    - 91401
+    - 91401
+  label: 第二節　空有之爭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-68
+    span:
+    - body
+    - 93380
+    - 93380
+  label: 第三節　性空者之復興與分流
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-69
+    span:
+    - body
+    - 94739
+    - 94739
+  label: 第四節　虛妄唯識者之分流
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-70
+    span:
+    - body
+    - 96866
+    - 96866
+  label: 第五節　真常者之融合
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-71
+    span:
+    - body
+    - 97129
+    - 97129
+  label: 第十七章　密教之興與佛教之滅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-72
+    span:
+    - body
+    - 97142
+    - 97142
+  label: 第一節　秘密思想之濫觴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-73
+    span:
+    - body
+    - 98827
+    - 98827
+  label: 第二節　秘密教之傳布
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-74
+    span:
+    - body
+    - 102369
+    - 102369
+  label: 第三節　秘密教之特色
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-75
+    span:
+    - body
+    - 104345
+    - 104345
+  label: 第四節　印度佛教之衰亡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-76
+    span:
+    - body
+    - 104774
+    - 104774
+  label: 第十八章　印度佛教之回顧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-77
+    span:
+    - body
+    - 106825
+    - 106825
+  label: 附錄　印度佛教大事年表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0608_Y_001-mulu-78
+    span:
+    - body
+    - 107974
+    - 107974
+  label: 《印度之佛教》重版後記
+  type: mulu
+  level: 1
+hash: sha256:1b6a17c75dfd71dd711d3c88e26a60c72a8ea3752d7bbb2a4313ebebf7d92db7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
