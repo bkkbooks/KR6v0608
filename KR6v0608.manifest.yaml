@@ -18,11 +18,11 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0608_000.yaml, hash: 'sha256:66746450376ead60adc782f892d66db522b537e3537b951a817d7466e991a55a'}
-  - {seq: 1, filename: KR6v0608_001.yaml, hash: 'sha256:8d2e6fce71281520dd7c58c8eab9ae683c003c7b088670f4a915e69aeebf029f'}
+  - {seq: 0, filename: KR6v0608_000.yaml, hash: 'sha256:f4748164516c9153620893a0efa030f7f12fc99e67d2055f4716337603beb876'}
+  - {seq: 1, filename: KR6v0608_001.yaml, hash: 'sha256:24e0e7e36db7ac571f912cd896e1557d6e32bee0354a5505cc984f91dc2c4887'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0608_000.markers.yaml, hash: 'sha256:3dac052f3377907416bd708e461639a4a9f25b9d3a5c3b92abe83da38d310659'}
-  - {seq: 1, role: markers, filename: assets/KR6v0608_001.markers.yaml, hash: 'sha256:efa5bf19fa6e4b8ab8fe1bd6f67f3cd9c581dd0a7dfd0de664788ae526ee2154'}
+  - {seq: 0, role: markers, filename: assets/KR6v0608_000.markers.yaml, hash: 'sha256:908a46665978735d7252f75a15d7cba0766f786ef5a9501e7687c2a78293db0c'}
+  - {seq: 1, role: markers, filename: assets/KR6v0608_001.markers.yaml, hash: 'sha256:8e50697431bde333dc7344bc0d09572cbec91a78ec1ab7d78b1d68ab2ba07e37'}
 table_of_contents:
 - ref:
     seq: 0
@@ -824,7 +824,4 @@ table_of_contents:
   label: 《印度之佛教》重版後記
   type: mulu
   level: 1
-hash: sha256:1b6a17c75dfd71dd711d3c88e26a60c72a8ea3752d7bbb2a4313ebebf7d92db7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:af9c3404dff1290a41edcf101655b6badfa0580976d9575057039cc1831a403d
