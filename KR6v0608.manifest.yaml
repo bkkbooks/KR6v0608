@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0608/v1
 canonical_location: https://kanripo.org/bkk/KR6v0608/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 印度之佛教
   source:
@@ -18,11 +18,11 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0608_000.yaml, hash: 'sha256:f4748164516c9153620893a0efa030f7f12fc99e67d2055f4716337603beb876'}
-  - {seq: 1, filename: KR6v0608_001.yaml, hash: 'sha256:24e0e7e36db7ac571f912cd896e1557d6e32bee0354a5505cc984f91dc2c4887'}
+  - {seq: 0, filename: KR6v0608_000.yaml, hash: 'sha256:e423b6267e8c839320d698a3fd53510ac6a331253b6553512903497def0940bd'}
+  - {seq: 1, filename: KR6v0608_001.yaml, hash: 'sha256:f7296297df8d24a774148da29653ae490d2c66c745258a93cfff3ea19230cb72'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0608_000.markers.yaml, hash: 'sha256:908a46665978735d7252f75a15d7cba0766f786ef5a9501e7687c2a78293db0c'}
-  - {seq: 1, role: markers, filename: assets/KR6v0608_001.markers.yaml, hash: 'sha256:8e50697431bde333dc7344bc0d09572cbec91a78ec1ab7d78b1d68ab2ba07e37'}
+  - {seq: 0, role: markers, filename: assets/KR6v0608_000.markers.yaml, hash: 'sha256:8de565dcc4f77be1c83533328ad4591ef9c65983cfb19c0ade75c31efb3b71b0'}
+  - {seq: 1, role: markers, filename: assets/KR6v0608_001.markers.yaml, hash: 'sha256:134c7717a6bebea9a2142aacb88102890d3cd5bc6585036091999ed1e1782dec'}
 table_of_contents:
 - ref:
     seq: 0
@@ -824,4 +824,7 @@ table_of_contents:
   label: 《印度之佛教》重版後記
   type: mulu
   level: 1
-hash: sha256:af9c3404dff1290a41edcf101655b6badfa0580976d9575057039cc1831a403d
+hash: sha256:a8d674f284c2e4d0381e27e71f8c48d59aa999847f651fd6e9cff4597489170b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
