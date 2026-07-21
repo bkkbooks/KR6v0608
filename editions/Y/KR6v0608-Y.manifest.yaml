@@ -19,17 +19,17 @@ metadata:
     short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0608_000-Y.yaml, hash: 'sha256:f4748164516c9153620893a0efa030f7f12fc99e67d2055f4716337603beb876'}
+  - {seq: 0, filename: KR6v0608_000-Y.yaml, hash: 'sha256:b075d6ec0f40ce37e81bc77d0d001cfa1874cf974cbee3345afdbce79da0d171'}
   - {seq: 1, filename: KR6v0608_001-Y.yaml, hash: 'sha256:24e0e7e36db7ac571f912cd896e1557d6e32bee0354a5505cc984f91dc2c4887'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0608_000-Y.markers.yaml, hash: 'sha256:c85c5d5aebeb4675f0b9f28be577c99063543563d2807d7f9f8fd9f7168a5e0c'}
+  - {seq: 0, role: markers, filename: assets/KR6v0608_000-Y.markers.yaml, hash: 'sha256:4745e4e47cac911ab5cad42a05dd9fda6a7520cb62c08d0d2a6d467b83e3b7df'}
   - {seq: 1, role: markers, filename: assets/KR6v0608_001-Y.markers.yaml, hash: 'sha256:4956db3bfb32118e7b93e4833ce3a469477d46fd079b6847f9bf96723ed2afbf'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0608_Y_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 自序——編述之緣起、方針與目的
@@ -825,4 +825,4 @@ table_of_contents:
   label: 《印度之佛教》重版後記
   type: mulu
   level: 1
-hash: sha256:158b2b7333d5e42f3aabbc4c755324126be58597e4dec7d10415b8da351da78a
+hash: sha256:3f1e7ee86598b56ec1fe53b4be8d36345856b3c102e2ceb65369677900e20375
